@@ -35,3 +35,9 @@
 --text-md | 1 rem | Teks isi
 --text-xl | 1.5rem | Judul bagian
 --text-3xl | 2.25rem | Judul halaman
+
+### Penggunaan AI
+- Mencari referensi maksud dari kode-kode tersebut
+- Mencari error dan kesalahan
+- Mencari referensi desain website
+- Mencari tahu cara untuk mengecek hal-hal yang diminta
