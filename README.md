@@ -23,7 +23,6 @@
 --raw-color-primary | #2563D6 | Warna utama
 --raw-color-danger | #B00020 | Peringatan dan isian yang tidak sah
 --raw-color-focus | #B45309 | Garis fokus papan ketik
-
 --space-1 | 0.25rem | Jarak paling rapat, di dalam komponen
 --space-2 | 0.5rem | Jarak antar label dan isian
 --space-3 | 0.75rem | Jarak di dalam kartu
